@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "pm2": "^3.0.0"
+  },
+  "name": "hrace",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:domzs/hrace.git",
+  "author": "Zsolt Domokos",
+  "license": "MIT",
+  "private": true
+}
